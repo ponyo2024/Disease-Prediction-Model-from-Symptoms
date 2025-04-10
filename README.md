@@ -18,7 +18,7 @@ This project aims to predict diseases from symptom texts using a fine-tuned BioB
 
 ## Setup
 1. Install dependencies: `pip install -r requirements.txt`
-2. Run the modules sequentially: `python module1.py`, `python module2.py`, ...
+2. Run the modules sequentially
 
 ## Dependencies
 - transformers
