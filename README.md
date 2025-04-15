@@ -17,7 +17,7 @@ This project aims to predict diseases from symptom texts using a fine-tuned BioB
 - module8: Manual testing
 
 ## Setup
-1. Install dependencies: `pip install -r requirements.txt`
+1. Install dependencies
 2. Run the modules sequentially
 
 ## Dependencies
